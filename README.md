@@ -27,7 +27,7 @@
 
   ![screenshot](/assets/Screenshot.png)
 
-  [Link to step through video of this application:](https://drive.google.com/file/d/15NMd5bP-KO1OQ8Q3cjXUnomes2-6PPjj/view?usp=sharing)
+  [Link to walkthrough video of this application:](https://drive.google.com/file/d/15NMd5bP-KO1OQ8Q3cjXUnomes2-6PPjj/view?usp=sharing)
 
   ## License
   This project is licensed under MIT.
