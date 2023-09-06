@@ -29,6 +29,8 @@
 
   [Link to walkthrough video of this application:](https://drive.google.com/file/d/1Xz6VCtUyrsoONFlf4nGRrYHwva1NmuaP/view?usp=sharing)
 
+  [click here to view sample svg](/examples/sample-logo.svg)
+
   ## License
   This project is licensed under MIT.
 
