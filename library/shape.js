@@ -1,1 +1,0 @@
-// parent class shape for each shape.
